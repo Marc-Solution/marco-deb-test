@@ -31,3 +31,9 @@ function medium() {
 function large() {
     document.getElementById('font-size').style.fontSize='35px'
 }
+
+//------------------
+
+function openBody() {
+    document.getElementById('body-section').style.display='block'
+}
